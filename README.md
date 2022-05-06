@@ -1,15 +1,16 @@
 # How to Deploy React App to Vercel Cloud
 
+![](./screenshots/screenshot.png)
+
 ## Table of Contents
 
 | No. | Topics                                    |
 | --- | ----------------------------------------- |
 | 1   | [About Code Courses](#about-code-courses) |
 | 2   | [Full Course](#full-course)               |
-| 3   | [Screenshot](#screenshot)                 |
-| 4   | [Technologies](#technologies)             |
-| 5   | [Running the demo](#running-the-demo)     |
-| 6   | [Useful links](#useful-links)             |
+| 3   | [Technologies](#technologies)             |
+| 4   | [Running the demo](#running-the-demo)     |
+| 5   | [Useful links](#useful-links)             |
 
 <a id="about-code-courses"></a>
 
@@ -23,21 +24,13 @@
 
 - For the full course, You can refer to this [link](https://codecourses.site/react/how-to-deploy-react-app-to-vercel/).
 
-<a id="screenshot"></a>
-
-## 3. Screenshot
-
-![](./screenshots/screenshot.png)
-
-<a id="technologies"></a>
-
-## 4. Technologies
+## 3. Technologies
 
 This demo uses React.js and Vercel
 
 <a id="running-the-demo"></a>
 
-## Running the demo
+## 4. Running the demo
 
 To run the demo follow these steps:
 
@@ -50,6 +43,6 @@ Questions about running the demo? [Open an issue](https://github.com/codecourses
 
 <a id="useful-links"></a>
 
-## Useful links
+## 5. Useful links
 
 - 🔷 [React.js](https://reactjs.org/)
